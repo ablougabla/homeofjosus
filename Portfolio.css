@@ -1,0 +1,226 @@
+/***************************
+This is a Cascading Style Sheet (CSS), which describes rules for styling HTML markup (and this is a comment, which you can delete).
+
+To use this file, link it to your markup by placing a <link> in the <head> of your HTML file:
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+
+replacing "style.css" with the name of this CSS file.
+
+Learn more about CSS at
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
+***************************/
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(clean-white-polygon-backgrounds-8.png);
+}
+.mainheader0 nav {
+
+  background-image: url(White_Blank_Square-1020x1275.jpg);
+  width: 100%;
+  list-style: none;
+  height 20px;
+  position: fixed;
+}
+
+.mainheader0 nav ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 12px;
+  text-align: center;
+}
+.mainheader0 nav ul li {
+
+
+  margin: 0 auto;
+  font-family: "VERDANA";
+  font-weight: 00;
+  color: #A53838;
+  padding: 15px 3%; 
+  display: inline;
+  font-size: 15px;
+
+
+}
+.mainheader0 nav ul li:hover{
+  color: black;
+}
+.mainheader0 a{
+  font-style: none;
+  text-decoration: none;     
+}
+
+.mainheader0 nav ul li a:link{
+  color: firebrick;
+}
+.mainheader0 nav ul li a:hover{
+  color: black;
+}
+
+
+
+
+
+
+.mainheader nav{
+  background-image: url(White_Blank_Square-1020x1275.jpg);
+  margin-top: -9px;
+  width: 100%;
+  height: inherit;
+  position:static;
+
+  list-style: none;
+  
+  
+}
+
+.mainheader h1 {
+  color: dimgrey;
+  font-family: "CENTURY GOTHIC";
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+  
+}
+
+.resume h3 {
+  
+ text-align: center;
+  font-family: "VERDANA";
+  font-weight: 300;
+  font-size: 22px;
+  
+  
+}
+.resume img {
+
+ 
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+margin-top: -20px;
+  border-style: solid;
+  border-width: thin;
+}
+.paragraph {
+display: block;
+text-align: center;
+width: 90%;
+ 
+margin-left: auto;
+margin-right: auto;
+font-size: 14px;
+font-weight: 500;
+margin-top: -3px;
+font-family: "CENTURY GOTHIC";
+}
+
+.project1 h3{
+  text-align: center;
+  font-family: "VERDANA";
+  font-weight: 300;
+  font-size: 20px;
+}
+.project1 img {
+  
+  display: block;
+ margin-left: auto;
+  margin-right: auto;
+ width: 65%; 
+ border-style: solid;
+  border-width: thin;
+  margin-top: -15px;
+}
+.project1 p {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  text-align: center;
+  font-size: 11px;
+  font-family: "verdana";
+}
+
+.project2 h3{
+ text-align: center;
+  font-family: "VERDANA";
+  font-weight: 300;
+  font-size: 20px;
+  
+}
+.project2 p{
+  
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  text-align: center;
+  font-size: 11px;
+  font-family: "VERDANA";
+  
+}
+.project2 img{
+  
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+ width: 65%;
+  margin-top: -15px;
+  border-style: solid;
+  border-width: thin;
+}
+.project3 h3{
+ text-align: center;
+  font-family: "VERDANA";
+  font-weight: 300;
+  font-size: 20px;
+}
+.project3 p{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  text-align: center;
+  font-size: 11px;
+  font-family: "VERDANA";
+}
+.project3 img{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  margin-top: -15px;
+}
+
+.project4 h3{
+  text-align: center;
+  font-family: "VERDANA";
+  font-weight: 300;
+  font-size: 20px;
+}
+.project4 p{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  text-align: center;
+  font-size: 11px;
+  font-family: "VERDANA";
+  
+}
+
+.project4 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  text-align: center;
+  font-size: 10px;
+  font-family: "VERDANA";
+  border-style: solid;
+  border-width: thin;
+  margin-top: -15px;
+}
