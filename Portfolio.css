@@ -60,10 +60,6 @@ body {
 }
 
 
-
-
-
-
 .mainheader nav{
   background-image: url(White_Blank_Square-1020x1275.jpg);
   margin-top: -9px;
@@ -103,6 +99,7 @@ body {
 margin-top: -20px;
   border-style: solid;
   border-width: thin;
+  width: 65%;
 }
 .paragraph {
 display: block;
