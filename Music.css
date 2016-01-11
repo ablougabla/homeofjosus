@@ -1,0 +1,145 @@
+/***************************
+This is a Cascading Style Sheet (CSS), which describes rules for styling HTML markup (and this is a comment, which you can delete).
+
+To use this file, link it to your markup by placing a <link> in the <head> of your HTML file:
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+
+replacing "style.css" with the name of this CSS file.
+
+Learn more about CSS at
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
+***************************/
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(clean-white-polygon-backgrounds-8.png);
+}
+.mainheader0 nav {
+
+  background-image: url(White_Blank_Square-1020x1275.jpg);
+  width: 100%;
+  list-style: none;
+  height 20px;
+  position: fixed;
+}
+
+.mainheader0 nav ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 12px;
+  text-align: center;
+}
+.mainheader0 nav ul li {
+
+
+  margin: 0 auto;
+  font-family: "VERDANA";
+  font-weight: 00;
+  color: #A53838;
+  padding: 15px 3%; 
+  display: inline;
+  font-size: 15px;
+
+
+}
+.mainheader0 nav ul li:hover{
+  color: black;
+}
+.mainheader0 a{
+  font-style: none;
+  text-decoration: none;     
+}
+
+.mainheader0 nav ul li a:link{
+  color: firebrick;
+}
+.mainheader0 nav ul li a:hover{
+  color: black;
+}
+
+
+.mainheader nav{
+  background-image: url(White_Blank_Square-1020x1275.jpg);
+  margin-top: -11px;
+  width: 100%;
+  list-style: none;
+  height:inherit;
+  position: static;
+}
+
+.mainheader h1 {
+  color: dimgrey;
+  font-family: "CENTURY GOTHIC";
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+
+}
+
+.paragraph p{
+ 
+  
+  display: block;
+  text-align: center;
+  width: 90%;
+
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: -3px;
+  font-family: "CENTURY GOTHIC";
+}
+
+.music0 p {   
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: bold;
+  font-size: 11px;
+  margin-bottom: auto;
+  width: 60%;
+  font-family: "VERDANA";
+
+}
+
+.music1 p {   
+ text-align: center;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ font-style: bold;
+  font-size: 11px;
+  margin-bottom: auto;
+  width: 60%;
+  font-family: "VERDANA";
+  
+}
+
+.music2 p {   
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: bold;
+  font-size: 11px;
+  margin-bottom: auto;
+  width: 60%;
+  font-family: "VERDANA";
+
+}
+.music3 p {   
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: bold;
+  font-size: 11px;
+  margin-bottom: auto;
+  width: 60%;
+  font-family: "VERDANA";
+
+}
